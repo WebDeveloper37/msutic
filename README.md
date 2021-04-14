@@ -1,4 +1,6 @@
 ### Hi there 👋
+![](https://visitor-badge.laobi.icu/badge?page_id=msutic.msutic)
+[![Github](https://img.shields.io/github/followers/msutic?label=Follow&style=social)](https://github.com/msutic)  
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=msutic&show_icons=true&theme=tokyonight)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=msutic&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)  
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=msutic&repo=space_invaders&theme=tokyonight)](https://github.com/msutic/space_invaders)
