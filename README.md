@@ -1,6 +1,5 @@
 ### Hi there 👋
-![](https://visitor-badge.laobi.icu/badge?page_id=msutic.msutic)
-[![Github](https://img.shields.io/github/followers/msutic?label=Follow&style=social)](https://github.com/msutic)  
+
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=msutic&show_icons=true)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=msutic&layout=compact)](https://github.com/anuraghazra/github-readme-stats)  
 
